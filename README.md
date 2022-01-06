@@ -1,5 +1,6 @@
-👋 Hi! I like to code in **[☕ Java](https://www.java.com/en/)**, **[#️⃣ C#](https://dotnet.microsoft.com/en-us/languages/csharp)** and many other languages.
-I also work on some personal **game prototypes** and do some crazy experiments in my spare time.
+## **👋 Hi everyone!**
+I like to code in **[☕ Java](https://www.java.com/en/)**, **[➕ C++](https://www.cplusplus.com/)**.
+I also work on **video games** and play Minecraft in my spare time.
 
 ## **💻 Tools & Technologies that I use**
 ### __Programming Languages__
