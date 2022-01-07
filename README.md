@@ -1,6 +1,6 @@
 ## **👋 Hi everyone!**
-I like to code in **[☕ Java](https://www.java.com/en/)**, **[➕ C++](https://www.cplusplus.com/)**.
-I also work on **video games** and play Minecraft in my spare time.
+I like to code in **[Java](https://www.java.com/en/)** and **[C++](https://www.cplusplus.com/)**.
+I also develop **video games**, mess around with **Graphics APIs** and play Minecraft in my spare time.
 
 ## **💻 Tools & Technologies that I use**
 ### __Programming Languages__
