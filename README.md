@@ -1,28 +1,7 @@
-## **👋 Hi everyone!**
-I like to code in **[Java](https://www.java.com/en/)** and **[C++](https://www.cplusplus.com/)**.
-I also develop **video games**, mess around with **Graphics APIs** and play Minecraft in my spare time.
+# **(Likto_)[https://github.com/Likto]**
+* Game developer
+* Game designer
+* Programmer
+* Pixel artist
 
-## **💻 Tools & Technologies that I use**
-### __Programming Languages__
-☕ | [Java](https://www.java.com/en/)<br>
-#️⃣ | [C# (C Sharp)](https://dotnet.microsoft.com/en-us/languages/csharp/)<br>
-🎨 | [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/)<br>
-🐍 | [Python](https://python.org/)<br>
-🦀 | [Rust](https://www.rust-lang.org/)<br>
-🌐 | [Javascript](https://www.javascript.com/)<br>
-⌨ | [TypeScript](https://www.typescriptlang.org/)<br>
-⛵ | [PHP](https://www.php.net/)<br>
-➕ | [C/C++](https://www.cplusplus.com/)<br>
-🌐 | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br>
-🎨 | [CSS](https://en.wikipedia.org/wiki/CSS)<br>
-<br/>
-### __Code Editors & IDEs__
-🌘 | [Eclipse](https://www.eclipse.org/)<br>
-🧠 | [IntelliJ IDEA](https://www.jetbrains.com/idea/)<br>
-🔀 | [Visual Studio](https://visualstudio.microsoft.com/)<br>
-🔀 | [Visual Studio Code](https://code.visualstudio.com/)<br>
-<br/>
-### __Tools & Others__
-🟢 | [Node.js](https://nodejs.org/en/)<br>
-🦕 | [Deno](https://deno.land/)<br>
-🔌 | [WampServer](https://www.wampserver.com/en/)<br>
+* **Favorite language:** Java
