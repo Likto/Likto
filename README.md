@@ -1,20 +1,20 @@
 # 🎲 Likto_
 
-🎮 > Game developer
-🎳 > Game designer
-💻 > Programmer
-🎨 > Pixel artist
+🎮 * Game developer
+🎳 * Game designer
+💻 * Programmer
+🎨 * Pixel artist
 
-# 🎲 About
+## 🎲 About
 
 I'm just a teenager boy who likes programming and spends 
 most of his time working on games. I'm currently working 
 on a 2D sandbox game right now, check out my blog for 
 more informations: "https://likto.tumblr.com/".
 
-# 🎲 Used technologies
+## 🎲 Used technologies
 
-## 1. 💻 Programming languages:
+### 1. 💻 Programming languages:
 
 * Java my favorite language, used for game dev.
 * C# (.NET) used for game development
@@ -24,18 +24,18 @@ more informations: "https://likto.tumblr.com/".
 * Javascript/Typescript also used for web dev.
 * Rust used for tools development
 
-## 2. 📝 Code Editors/IDEs:
+### 2. 📝 Code Editors/IDEs:
 
 * VsCode used for almost everything
 * Eclipse used for Java
 
-## 3. 🔧 Tools
+### 3. 🔧 Tools
 
 * Deno a runtime for Javascript/Typescript
 * Node.js a runtime for Javascript
 * Wamp Server a local web development platform
 
-## 4. 📦 Libraries
+### 4. 📦 Libraries
  
 * LWJGL3 used in Java
 * OpenTK used in C#
