@@ -1,9 +1,9 @@
 # 🎲 Likto_
 
-🎮 * Game developer
-🎳 * Game designer
-💻 * Programmer
-🎨 * Pixel artist
+* Game developer
+* Game designer
+* Programmer
+* Pixel artist
 
 # 🎲 About
 
@@ -12,8 +12,8 @@ most of his time working on games. I'm currently working
 on a 2D sandbox game right now, check out my blog for 
 more informations: "https://likto.tumblr.com/".
 
-# 🎲 Used technologies
-
+# 🔭 Used technologies
+____
 ### 1. 💻 Programming languages:
 ____
 * **Java** my favorite language, used for game dev.
