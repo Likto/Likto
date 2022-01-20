@@ -7,37 +7,40 @@
 
 ## 📓 About
 
-I'm just a teenager boy who likes programming and spends 
-most of his time working on games. I'm currently working 
-on a 2D sandbox game right now, check out my blog for 
-more informations: "https://likto.tumblr.com/".
+I'm just a **teenager** boy who likes programming and spends 
+most of his time working on **games**. I'm currently working 
+on a **2D sandbox game** right now, check out my **[blog](https://likto.tumblr.com/)** for 
+more informations.
 
 ## 🔭 Used technologies
 
 ### 💻 Programming languages:
 
-* **Java** my favorite language, used for game dev.
-* **C#** (.NET) used for game development
-* **C/C++** used for game development
-* **Python** used for tests
-* **HTML**/**CSS**/**PHP** used for web development
-* **Javascript**/**Typescript** also used for web dev.
-* **Rust** used for tool development
+* ☕ **Java**
+* #️⃣ **C#** (.NET) 
+* **C/C++**
+* **Python**
+* **HTML**
+* **CSS**
+* **PHP**
+* **Javascript**
+* **Typescript**
+* **Rust**
 
 ### 📝 Code Editors/IDEs:
 
-* **VSCode** used for almost everything
-* **Eclipse IDE** used for Java
+* **VSCode** A code editor - used for almost everything
+* **Eclipse IDE** a **Java** IDE
 
 ### 🔧 Tools
-* **Deno** a runtime for Javascript/Typescript
-* **Node.js** a runtime for Javascript
-* **Wamp Server** a local web development platform
+* **Deno** a runtime for **Javascript** and **Typescript**
+* **Node.js** a runtime for **Javascript**
+* **Wamp Server** a local **web development** platform
 
 #### 📦 Libraries
 
-* **LWJGL3** used in Java
-* **OpenTK** used in C#
-* **Vulkan SDK** used in C/C++
-* **SFML.NET** used in C#
+* **LWJGL3 (Lightweight Java Game Library)** a game framework for **Java**
+* **OpenTK** an **OpenGL** binding for **C#**
+* **Vulkan SDK**: the **Vulkan** SDK by **LunarG** (for **C**/**C++**)
+* **SFML.NET**: a **SFML** binding for **C#**
 
