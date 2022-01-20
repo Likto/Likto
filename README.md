@@ -14,7 +14,7 @@ more informations: "https://likto.tumblr.com/".
 
 # 🎲 Used technologies
 
-## 1. 💻 PROGRAMMING LANGUAGES:
+## 1. 💻 Programming languages:
 
 * Java my favorite language, used for game dev.
 * C# (.NET) used for game development
@@ -26,20 +26,20 @@ more informations: "https://likto.tumblr.com/".
 
 ## 2. 📝 Code Editors/IDEs:
 
-> VsCode used for almost everything
-> Eclipse used for Java
+* VsCode used for almost everything
+* Eclipse used for Java
 
 ## 3. 🔧 Tools
 
-> Deno a runtime for Javascript/Typescript
-> Node.js a runtime for Javascript
-> Wamp Server a local web development platform
+* Deno a runtime for Javascript/Typescript
+* Node.js a runtime for Javascript
+* Wamp Server a local web development platform
 
 ## 4. 📦 Libraries
  
-> LWJGL3 used in Java
-> OpenTK used in C#
-> Vulkan SDK used in C/C++
-> SDL2 also used in C++
-> SFML also used in C++
-> SFML.NET used in C#
+* LWJGL3 used in Java
+* OpenTK used in C#
+* Vulkan SDK used in C/C++
+* SDL2 also used in C++
+* SFML also used in C++
+* SFML.NET used in C#
