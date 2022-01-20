@@ -13,9 +13,9 @@ on a 2D sandbox game right now, check out my blog for
 more informations: "https://likto.tumblr.com/".
 
 ## 🔭 Used technologies
-____
-#### 💻 Programming languages:
-____
+
+### 💻 Programming languages:
+
 * **Java** my favorite language, used for game dev.
 * **C#** (.NET) used for game development
 * **C/C++** used for game development
@@ -23,22 +23,21 @@ ____
 * **HTML**/**CSS**/**PHP** used for web development
 * **Javascript**/**Typescript** also used for web dev.
 * **Rust** used for tool development
-____
-#### 📝 Code Editors/IDEs:
-____
+
+### 📝 Code Editors/IDEs:
+
 * **VSCode** used for almost everything
 * **Eclipse IDE** used for Java
-____
-#### 🔧 Tools
-____
+
+### 🔧 Tools
 * **Deno** a runtime for Javascript/Typescript
 * **Node.js** a runtime for Javascript
 * **Wamp Server** a local web development platform
-____
+
 #### 📦 Libraries
-____
+
 * **LWJGL3** used in Java
 * **OpenTK** used in C#
 * **Vulkan SDK** used in C/C++
 * **SFML.NET** used in C#
-____
+
