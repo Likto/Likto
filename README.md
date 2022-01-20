@@ -12,7 +12,7 @@ most of his time working on games. I'm currently working
 on a 2D sandbox game right now, check out my blog for 
 more informations: "https://likto.tumblr.com/".
 
-# 🔭 Used technologies
+## 🔭 Used technologies
 ____
 #### 💻 Programming languages:
 ____
