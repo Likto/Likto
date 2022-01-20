@@ -23,20 +23,20 @@ ____
 * **HTML**/**CSS**/**PHP** used for web development
 * **Javascript**/**Typescript** also used for web dev.
 * **Rust** used for tool development
-
+____
 ### 2. 📝 Code Editors/IDEs:
 ____
 * **VSCode** used for almost everything
 * **Eclipse IDE** used for Java
-
+____
 ### 3. 🔧 Tools
 ____
 * **Deno** a runtime for Javascript/Typescript
 * **Node.js** a runtime for Javascript
 * **Wamp Server** a local web development platform
-
+____
 ### 4. 📦 Libraries
- ____
+____
 * **LWJGL3** used in Java
 * **OpenTK** used in C#
 * **Vulkan SDK** used in C/C++
