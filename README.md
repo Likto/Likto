@@ -1,5 +1,4 @@
-## **[Likto_](https://github.com/Likto)**
-___
+# **[Likto_](https://github.com/Likto)**
 * Game developer
 * Game designer
 * Programmer
