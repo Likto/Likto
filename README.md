@@ -5,14 +5,14 @@
 💻 * Programmer
 🎨 * Pixel artist
 
-## 🎲 About
+# 🎲 About
 
 I'm just a teenager boy who likes programming and spends 
 most of his time working on games. I'm currently working 
 on a 2D sandbox game right now, check out my blog for 
 more informations: "https://likto.tumblr.com/".
 
-## 🎲 Used technologies
+# 🎲 Used technologies
 
 ### 1. 💻 Programming languages:
 ____
@@ -43,3 +43,4 @@ ____
 * SDL2 also used in C++
 * SFML also used in C++
 * SFML.NET used in C#
+____
