@@ -36,8 +36,8 @@ more informations about the project.
 
 ### 📝 Code Editors/IDEs:
 
-* 🔀 **VSCode** - a code editor, used for almost everything
-* 🌘 **Eclipse IDE** - a **Java** IDE
+* 🔀 **[VSCode](https://code.visualstudio.com/)** - a code editor, used for almost everything
+* 🌘 **[Eclipse IDE](https://www.eclipse.org/ide/)** - a **Java** IDE
 
 <br>
 
