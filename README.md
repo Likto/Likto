@@ -4,6 +4,9 @@
 * Programmer
 * Pixel artist
 
+> **Discord:** ``Likto_#3690``
+> **Gmail:** ``kilamwho@gmail.com``
+
 <br>
 
 ## 📓 About
@@ -18,8 +21,8 @@ more informations.
 
 ### 💻 Programming languages:
 
-* ☕ **Java**
-* #️⃣ **C#** (.NET) 
+* ☕ **Java** 🌟
+* #️⃣ **C#** (.NET)
 * ➕ **C/C++**
 * 🐍 **Python**
 * 🔌 **HTML**
@@ -33,24 +36,24 @@ more informations.
 
 ### 📝 Code Editors/IDEs:
 
-* 🔀 **VSCode** A code editor - used for almost everything
-* 🌘 **Eclipse IDE** a **Java** IDE
+* 🔀 **VSCode** - a code editor, used for almost everything
+* 🌘 **Eclipse IDE** - a **Java** IDE
 
 <br>
 
 ### 🔧 Tools
 
-* 🦕 **Deno** a runtime for **Javascript** and **Typescript**
-* 🌟 **Node.js** a runtime for **Javascript**
-* 🔌 **Wamp Server** a local **web development** platform
+* 🦕 **Deno** - a runtime for **Javascript** and **Typescript**
+* 🌟 **Node.js** - a runtime for **Javascript**
+* 🔌 **Wamp Server** - a local **web development** platform
 
 <br>
 
 #### 📦 Libraries
 
-* 🧱 **LWJGL3 (Lightweight Java Game Library)** a game framework for **Java**
+* 🧱 **LWJGL3 (Lightweight Java Game Library)** - a game framework for **Java**
 * 🧿 **OpenTK** an **OpenGL** binding for **C#**
-* 🌋 **Vulkan SDK**: the **Vulkan** SDK by **LunarG** (for **C**/**C++**)
-* 📟 **SFML.NET**: a **SFML** binding for **C#**
+* 🌋 **Vulkan SDK** - the **Vulkan** SDK by **LunarG** (for **C**/**C++**)
+* 📟 **SFML.NET** - a **SFML** binding for **C#**
 
 <br>
