@@ -53,7 +53,7 @@ more informations about the project.
 
 * 🧱 **[LWJGL3](https://www.lwjgl.org/)** - a game framework for ``Java``
 * 🧿 **[OpenTK](https://opentk.net/)** the [``OpenGL``](https://www.opengl.org//) binding for ``C#``
-* 🌋 **[Vulkan SDK](https://vulkan.lunarg.com/)** - the [``Vulkan``](https://www.vulkan.org/) SDK by [``LunarG``](https://www.lunarg.com/) (for ``C``/``C++``)
+* 🌋 **[Vulkan SDK](https://vulkan.lunarg.com/)** - the [``Vulkan``](https://www.vulkan.org/) SDK by [``LunarG``](https://www.lunarg.com/) (for ``C/C++``)
 * 📟 **[SFML.NET](https://www.sfml-dev.org/download/sfml.net/)** - the [``SFML``](https://www.sfml-dev.org/) binding for ``.NET languages``
 
 <br>
