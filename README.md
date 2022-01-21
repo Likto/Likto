@@ -4,8 +4,8 @@
 * Programmer
 * Pixel artist
 
-> **Discord:** ``Likto_#3690``
-> **Gmail:** ``kilamwho@gmail.com``
+> **Discord:** [``Likto_#3690``](https://discord.com/)
+> **Gmail:** [``kilamwho@gmail.com``](https://www.google.com/gmail)
 
 <br>
 
