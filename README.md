@@ -1,9 +1,4 @@
 ## Likto_
-* Game developer
-* Game designer
-* Programmer
-* Pixel artist
-
 > **Discord:** [``Likto_#3690``](https://discord.com/)
 > **Gmail:** [``kilamwho@gmail.com``](https://www.google.com/gmail)
 
