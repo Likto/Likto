@@ -6,9 +6,8 @@
 
 ## About
 I'm just a **teenager** boy who likes programming and spends 
-most of his time working on **games**. I'm currently working 
-on a **2D sandbox game** right now, check out my **[blog](https://likto.tumblr.com/)** for 
-more informations about the project.
+most of his time working on **games**. I'm also working 
+on a **game engine** in **C++** using **OpenGL**.
 
 <br>
 
