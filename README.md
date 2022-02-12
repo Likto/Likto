@@ -7,7 +7,7 @@
 ## About
 I'm just a **teenager** boy who likes programming and spends 
 most of his time working on **games**. I'm also working 
-on a **game engine** in **C++** using **OpenGL**.
+on a **game engine** in **Java** using **OpenGL**.
 
 <br>
 
