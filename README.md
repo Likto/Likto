@@ -25,6 +25,11 @@ on a **game engine** in **Java** using **OpenGL**.
 * **Javascript**
 * **Typescript**
 * **Rust**
+* **GDScript**
+* **Dark Basic**
+* **Blitz Basic**
+* **Visual Basic** (.NET)
+* **Unreal BP**
 
 <br>
 
