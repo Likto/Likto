@@ -5,9 +5,8 @@
 <br>
 
 ## About
-I'm just a **teenager** boy who likes programming and spends 
-most of his time working on **games**. I'm also working 
-on a **game engine** in **Java** using **OpenGL**.
+I'm just a **nerd** who likes programming and spends 
+most of his time working on **games**, **engines** and other shit.
 
 <br>
 
@@ -15,12 +14,11 @@ on a **game engine** in **Java** using **OpenGL**.
 
 ### Programming languages:
 
-* **Java** 🌟
+* **Java**
 * **C#** (.NET)
 * **C/C++**
 * **Python**
-* **HTML**
-* **CSS**
+* **HTML/CSS**
 * **PHP**
 * **Javascript**
 * **Typescript**
